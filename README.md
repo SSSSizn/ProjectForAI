@@ -26,7 +26,6 @@ model.py中包含多模态模型以及融合模型，直接运行可训练三个
 |-- README.md
 |-- __pycache__
 |-- model.py  # 完整模型以及训练、验证、测试过程代码
-|-- BERT  # bert-base-uncased  # 模型本地路径
 |-- data
 |   |-- original_data  # 原始数据集
 |   |-- data_split.py  # 数据处理，训练集、验证计划分等
