@@ -38,6 +38,7 @@ model.py中包含多模态模型以及融合模型，直接运行可训练三个
 |-- model.ipynb  # 与model.py内容相同，已包含完整训练结果
 |-- test_predictions.txt  # 预测文件
 |-- requirements.txt
+|-- 实验报告.pdf
 |-- val_best_model.pth  # 最佳模型
 .
 ```
