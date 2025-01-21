@@ -26,7 +26,7 @@ model.py中包含多模态模型以及融合模型，直接运行可训练三个
 |-- README.md
 |-- __pycache__
 |-- model.py  # 完整模型以及训练、验证、测试过程代码
-|-- data
+|-- data  # 文件过大传输失败，请参考邮件内容
 |   |-- original_data  # 原始数据集
 |   |-- data_split.py  # 数据处理，训练集、验证计划分等
 |   |-- test  # 测试数据集
@@ -38,6 +38,6 @@ model.py中包含多模态模型以及融合模型，直接运行可训练三个
 |-- test_predictions.txt  # 预测文件
 |-- requirements.txt
 |-- 实验报告.pdf
-|-- val_best_model.pth  # 最佳模型
+|-- val_best_model.pth  # 最佳模型，过大传输失败，请参考邮件内容
 .
 ```
